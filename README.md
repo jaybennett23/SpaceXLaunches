@@ -6,5 +6,6 @@
 
 The app is built using an MVVM architecture and UICollectionViewDiffableDataSource and UICollectionViewCompositionalLayout have been used, so we can implement and collection view header and varying scroll directions, if they're needed at a later stage.
 
+Unit tests have beeen added with plans to implement UI Tests at a later stage. 
 
 
